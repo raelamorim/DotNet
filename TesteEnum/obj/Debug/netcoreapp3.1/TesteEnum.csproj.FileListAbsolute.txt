@@ -1,0 +1,11 @@
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\bin\Debug\netcoreapp3.1\TesteEnum.exe
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\bin\Debug\netcoreapp3.1\TesteEnum.deps.json
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\bin\Debug\netcoreapp3.1\TesteEnum.runtimeconfig.json
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\bin\Debug\netcoreapp3.1\TesteEnum.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\bin\Debug\netcoreapp3.1\TesteEnum.dll
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\bin\Debug\netcoreapp3.1\TesteEnum.pdb
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\obj\Debug\netcoreapp3.1\TesteEnum.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\obj\Debug\netcoreapp3.1\TesteEnum.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\obj\Debug\netcoreapp3.1\TesteEnum.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\obj\Debug\netcoreapp3.1\TesteEnum.dll
+C:\Users\PICHAU\Documents\Estudo\Dotnet\TesteEnum\obj\Debug\netcoreapp3.1\TesteEnum.pdb
